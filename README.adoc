@@ -166,7 +166,7 @@ end
 [#80-character-limits]
 === Maximum Line Length
 
-Limit lines to 80 characters.
+Limit lines to 100 characters.
 
 === No Trailing Whitespace [[no-trailing-whitespace]]
 
